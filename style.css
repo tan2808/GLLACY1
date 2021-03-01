@@ -1,0 +1,29 @@
+*
+{
+ box-sizing: border-box;
+}
+
+.container {
+max-width: 1224px;
+margin-left: auto;
+margin-right: auto;
+padding-left: 10px;
+padding-right: 10px;
+}
+.nav-inner {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.nav__list {
+
+
+}
+.nav__item {
+
+
+
+}
+
+
+
